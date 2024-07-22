@@ -1,0 +1,14 @@
+D:\Assignments\Filehandling_Poc3\bin\Debug\net8.0\Filehandling_Poc3.exe
+D:\Assignments\Filehandling_Poc3\bin\Debug\net8.0\Filehandling_Poc3.deps.json
+D:\Assignments\Filehandling_Poc3\bin\Debug\net8.0\Filehandling_Poc3.runtimeconfig.json
+D:\Assignments\Filehandling_Poc3\bin\Debug\net8.0\Filehandling_Poc3.dll
+D:\Assignments\Filehandling_Poc3\bin\Debug\net8.0\Filehandling_Poc3.pdb
+D:\Assignments\Filehandling_Poc3\obj\Debug\net8.0\Filehandling_Poc3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\Filehandling_Poc3\obj\Debug\net8.0\Filehandling_Poc3.AssemblyInfoInputs.cache
+D:\Assignments\Filehandling_Poc3\obj\Debug\net8.0\Filehandling_Poc3.AssemblyInfo.cs
+D:\Assignments\Filehandling_Poc3\obj\Debug\net8.0\Filehandling_Poc3.csproj.CoreCompileInputs.cache
+D:\Assignments\Filehandling_Poc3\obj\Debug\net8.0\Filehandling_Poc3.dll
+D:\Assignments\Filehandling_Poc3\obj\Debug\net8.0\refint\Filehandling_Poc3.dll
+D:\Assignments\Filehandling_Poc3\obj\Debug\net8.0\Filehandling_Poc3.pdb
+D:\Assignments\Filehandling_Poc3\obj\Debug\net8.0\Filehandling_Poc3.genruntimeconfig.cache
+D:\Assignments\Filehandling_Poc3\obj\Debug\net8.0\ref\Filehandling_Poc3.dll

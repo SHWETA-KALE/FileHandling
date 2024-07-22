@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ot8h65PvsSs=",
+  "success": true,
+  "projectFilePath": "D:\\Assignments\\ReadingWritingFrHtml\\FileReadingAndWritingHtml\\FileReadingAndWritingHtml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shweta.kale\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}

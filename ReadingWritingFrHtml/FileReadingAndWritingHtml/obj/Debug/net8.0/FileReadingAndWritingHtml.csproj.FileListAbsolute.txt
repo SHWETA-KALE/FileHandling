@@ -1,0 +1,17 @@
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\bin\Debug\net8.0\FileReadingAndWritingHtml.exe
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\bin\Debug\net8.0\FileReadingAndWritingHtml.deps.json
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\bin\Debug\net8.0\FileReadingAndWritingHtml.runtimeconfig.json
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\bin\Debug\net8.0\FileReadingAndWritingHtml.dll
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\bin\Debug\net8.0\FileReadingAndWritingHtml.pdb
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\obj\Debug\net8.0\FileReadingAndWritingHtml.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\obj\Debug\net8.0\FileReadingAndWritingHtml.AssemblyInfoInputs.cache
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\obj\Debug\net8.0\FileReadingAndWritingHtml.AssemblyInfo.cs
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\obj\Debug\net8.0\FileReadingAndWritingHtml.csproj.CoreCompileInputs.cache
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\obj\Debug\net8.0\FileReadingAndWritingHtml.dll
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\obj\Debug\net8.0\refint\FileReadingAndWritingHtml.dll
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\obj\Debug\net8.0\FileReadingAndWritingHtml.pdb
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\obj\Debug\net8.0\FileReadingAndWritingHtml.genruntimeconfig.cache
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\obj\Debug\net8.0\ref\FileReadingAndWritingHtml.dll
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\obj\Debug\net8.0\FileReadingAndWritingHtml.csproj.AssemblyReference.cache
+D:\Assignments\ReadingWritingFrHtml\FileReadingAndWritingHtml\obj\Debug\net8.0\FileRead.C505AFDE.Up2Date

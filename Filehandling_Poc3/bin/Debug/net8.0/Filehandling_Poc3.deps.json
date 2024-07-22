@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Filehandling_Poc3/1.0.0": {
+        "runtime": {
+          "Filehandling_Poc3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Filehandling_Poc3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
